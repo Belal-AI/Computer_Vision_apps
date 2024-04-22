@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Recommnedation System for parking](https://github.com/FSDAwaesf/Parking-recommendation-system-Autonomous-Vehicle)
 
-- 🌱 I’m currently learning **NLP and RNN versions**
-
 - 📫 How to reach me **belal.aboelkher@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
